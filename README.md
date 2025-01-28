@@ -12,3 +12,14 @@ Work with controls, networking, programming
 * Advance knowledge of Python :snake:
 * Learn VHDL
 * Acheive an A in the course :joy:
+### Code
+Inline `code` example.
+
+```python
+# Code block example
+print("Hello, Welcome to my repo!")
+```
+### Sample Inage
+![Placeholder Image](https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg)
+
+
