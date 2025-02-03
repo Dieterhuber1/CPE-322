@@ -1,5 +1,5 @@
-# **CPE-322** <ins> Asignment 0 </ins>
-_January 27th 2025_
+# **CPE-322** <ins> Assignment 0 </ins>
+_January 27, 2025_
 ## Create GitHub Repository
 ### Interests
 1. Networking
@@ -19,7 +19,10 @@ Inline `code` example.
 # Code block example
 print("Hello, Welcome to my repo!")
 ```
-### Sample Inage
+### Block Quote
+> Success is the sum of small efforts, repeated day in and day out. -Robert Collier
+### Sample Image
 ![Placeholder Image](https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg)
 
+### Link to my [Group Project Site](https://sites.google.com/stevens.edu/cpe-322-group-project-site/home)
 
