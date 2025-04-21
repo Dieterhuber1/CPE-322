@@ -28,23 +28,23 @@ In this lab I entered a variety of command lines in the terminal to see the resu
 ---
 ## hostname
 This command line displays the computer's host name
-![hostname output]()
+![hostname output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/hostname.png)
 
 ## Get-ChildItem Env:
 This command line displays all of the computers environment variables
-![Get-ChildItem Env output]()
+![Get-ChildItem Env output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/Get-ChildItemEnv.png)
 
 ## ps
 This command line displays process running on the computer
-![ps output]()
+![ps output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/ps.png)
 
 ## pwd
 This command line displays the full path of the current directory you are located in
-![pwd output]()
+![pwd output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/pwd.png)
 
 ## git clone https://github.com.kevinwlu/iot.git
 This command line line makes a copy of the git repository
-![git clone output]()
+![git clone output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/git_clone.png)
 
 ## cd iot
 This command line changes the working directory to IOT
