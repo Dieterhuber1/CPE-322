@@ -48,4 +48,4 @@ This command line line makes a copy of the git repository
 
 ## cd iot
 This command line changes the working directory to IOT
-![cd iot output]()
+![cd iot output](https://github.com/Dieterhuber1/CPE-322/blob/main/Labs/Lab2/cd_iot.png)
