@@ -14,6 +14,5 @@ In this lab I installed different python packages such as jdcal, astral, and geo
 `python battery.py`,
 `python documentstats.py document.txt`.
 </br> 
----
 ## python julian.py
 This command gives the calender date, Julian date, and modified Julian date.
